@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesDF", "VariablesDF\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inputandformattingandconvertingandconditionals", "inputandformattingandconvertingandconditionals\inputandformattingandconvertingandconditionals.csproj", "{B6FAE536-87DF-4ABE-A457-986F49105A12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stringmanipulation", "ConsoleApp1\Stringmanipulation.csproj", "{51BF8584-3A16-4693-B87A-34F6FF0C6856}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B6FAE536-87DF-4ABE-A457-986F49105A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6FAE536-87DF-4ABE-A457-986F49105A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6FAE536-87DF-4ABE-A457-986F49105A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51BF8584-3A16-4693-B87A-34F6FF0C6856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51BF8584-3A16-4693-B87A-34F6FF0C6856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51BF8584-3A16-4693-B87A-34F6FF0C6856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51BF8584-3A16-4693-B87A-34F6FF0C6856}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
