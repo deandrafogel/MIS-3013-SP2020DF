@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMethod", "Participati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesTextBoxParticipation", "ClassesTextBoxParticipation\ClassesTextBoxParticipation.csproj", "{B3FEB356-81A1-4E22-B686-28EED3FEBE32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectanglesAndCirclesParticipation", "RectanglesAndCirclesParticipation\RectanglesAndCirclesParticipation.csproj", "{4BAC249B-104D-4EAE-861D-F0E21045E4EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B3FEB356-81A1-4E22-B686-28EED3FEBE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3FEB356-81A1-4E22-B686-28EED3FEBE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3FEB356-81A1-4E22-B686-28EED3FEBE32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BAC249B-104D-4EAE-861D-F0E21045E4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BAC249B-104D-4EAE-861D-F0E21045E4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BAC249B-104D-4EAE-861D-F0E21045E4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BAC249B-104D-4EAE-861D-F0E21045E4EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

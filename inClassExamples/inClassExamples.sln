@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stringmanipulation", "Conso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{0D2F5C2F-3767-4306-A6CC-48A7DAFB53CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingTingz", "CodingTingz\CodingTingz.csproj", "{B0DBE22B-FA4A-4044-A0BE-78C4EAE708F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{0D2F5C2F-3767-4306-A6CC-48A7DAFB53CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D2F5C2F-3767-4306-A6CC-48A7DAFB53CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D2F5C2F-3767-4306-A6CC-48A7DAFB53CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0DBE22B-FA4A-4044-A0BE-78C4EAE708F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0DBE22B-FA4A-4044-A0BE-78C4EAE708F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0DBE22B-FA4A-4044-A0BE-78C4EAE708F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0DBE22B-FA4A-4044-A0BE-78C4EAE708F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

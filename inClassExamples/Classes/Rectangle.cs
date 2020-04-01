@@ -14,7 +14,7 @@ namespace Classes
 
         private DateTime LastModified;
 
-
+      
 
         //Default/empty constructor for the Rectangle class thats sets the width and length to zero
         public Rectangle()
