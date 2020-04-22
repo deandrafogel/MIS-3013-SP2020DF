@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF-1Participation", "WPF-1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF2", "..\..\..\WPF2\WPF2\WPF2.csproj", "{BE1CD133-9344-407E-B3DE-D61E4550249C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF-Student", "WPF-Student\WPF-Student.csproj", "{F91BF536-3EC4-4E0A-963B-46C2DDF1D5F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{BE1CD133-9344-407E-B3DE-D61E4550249C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE1CD133-9344-407E-B3DE-D61E4550249C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE1CD133-9344-407E-B3DE-D61E4550249C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F91BF536-3EC4-4E0A-963B-46C2DDF1D5F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91BF536-3EC4-4E0A-963B-46C2DDF1D5F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91BF536-3EC4-4E0A-963B-46C2DDF1D5F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91BF536-3EC4-4E0A-963B-46C2DDF1D5F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
