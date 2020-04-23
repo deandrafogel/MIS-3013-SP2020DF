@@ -49,5 +49,12 @@ namespace WPF_Student
 
 
         }
+        //public static string[] ReadAllLines (string path)
+        //{
+
+            //string path =
+            //return string[] readText = File.ReadAllLines(path);
+            //tried to do Problem #2, could not get the CSV files to download on the parallels side of my laptop
+        //}
     }
 }
