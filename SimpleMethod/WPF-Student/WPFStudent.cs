@@ -15,7 +15,7 @@ namespace WPF_Student
 
         public WPFStudent()
         {
-            StudentID = StudentID;
+            StudentID = 0;
             FirstName = "";
             LastName = "";
             FavoriteColor = "";

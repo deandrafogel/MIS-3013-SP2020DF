@@ -23,24 +23,29 @@ namespace WPF_Student
         public MainWindow()
         {
             InitializeComponent();
+            
         }
 
         private void btn_Student_Click(object sender, RoutedEventArgs e)
         {
-
+            
             WPFStudent Student1 = new WPFStudent();
             
-            Student1.FirstName = txtFirstName.Text;
+            Student1.FirstName = txtFirstName1.Text;
             Student1.LastName = txtLastName.Text;
             Student1.FavoriteColor = txtFavColor.Text;
+            Student1.StudentID = Convert.ToInt32(txtStudentID.Text);
 
-            lstStudent.Items.Add(Student1.StudentID);
-            lstStudent.Items.Add(Student1.FirstName);
-            lstStudent.Items.Add(Student1.LastName);
-            lstStudent.Items.Add(Student1.FavoriteColor);
 
             lstStudent.Items.Add(Student1.ToString());
-            
+
+            txtFirstName1.Text = "";
+            txtLastName.Text = "";
+            txtStudentID.Text = "";
+            txtFavColor.Text = "";
+
+
+
 
 
         }
